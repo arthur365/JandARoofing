@@ -74,6 +74,9 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
+            },
+            ".mbr-section-title B": {
+              "color": "#cccccc"
             }
           },
           "_name": "header7",
