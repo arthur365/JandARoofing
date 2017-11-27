@@ -1388,6 +1388,54 @@ body {
 .cid-qC0P9vtOcE .section-text DIV {
   color: #cccccc;
 }
+.cid-qCaAnkheCi {
+  padding-top: 30px;
+  padding-bottom: 45px;
+  background-color: #232323;
+}
+.cid-qCaAnkheCi .socicon-bg-facebook {
+  background: #3e5b98;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .socicon-bg-twitter {
+  background: #4da7de;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .socicon-bg-googleplus {
+  background: #dd4b39;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .socicon-bg-vkontakte {
+  background: #5a7fa6;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .socicon-bg-odnoklassniki {
+  background: #f48420;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .socicon-bg-pinterest {
+  background: #c92619;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .socicon-bg-mail {
+  background: #134785;
+  color: #ffffff;
+}
+.cid-qCaAnkheCi .btn-social {
+  border: none !important;
+}
+.cid-qCaAnkheCi [class^="socicon-"]:before,
+.cid-qCaAnkheCi [class*=" socicon-"]:before {
+  line-height: 44px;
+}
+@media (max-width: 767px) {
+  .cid-qCaAnkheCi .btn {
+    font-size: 20px !important;
+  }
+}
+.cid-qCaAnkheCi .mbr-section-title {
+  color: #ffffff;
+}
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
   background: #ed2b50;
