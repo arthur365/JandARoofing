@@ -1492,15 +1492,15 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "videoPreview": "@PROJECT_PATH@/2017-10-3_17-2-1-302416.jpg",
                 "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoUrl": "https://www.youtube.com/watch?v=tBY2ZQMU6oo",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x2666.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x2666-800x1066.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -1516,15 +1516,15 @@
               },
               {
                 "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-10-3-17-22-49-592349.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/tBY2ZQMU6oo",
                 "image": "@PROJECT_PATH@/assets/images/arth-block-640x328.png",
                 "thumb": "@PROJECT_PATH@/assets/images/arth-block-640x328-640x328.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           }
