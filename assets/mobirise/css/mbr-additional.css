@@ -1392,6 +1392,50 @@ body {
 .cid-qC0P9vtOcE .section-text DIV {
   color: #232323;
 }
+.cid-qCmLLreEZV {
+  padding-top: 30px;
+  padding-bottom: 90px;
+}
+.cid-qCmLLreEZV h2 {
+  text-align: center;
+}
+.cid-qCmLLreEZV h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-qCmLLreEZV p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-qCmLLreEZV .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-qCmLLreEZV .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qCmLLreEZV .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
+.cid-qCmLLreEZV H4 {
+  color: #ff3366;
+}
+.cid-qCmLLreEZV P {
+  color: #cc2952;
+}
 .cid-qCaAnkheCi {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -1442,12 +1486,12 @@ body {
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
-  background: #a30029;
+  background: #a005d4;
   transition: none;
   min-height: 77px;
 }
 .cid-qC02wibD3X .navbar-dropdown.bg-color.transparent.opened {
-  background: #a30029;
+  background: #a005d4;
 }
 .cid-qC02wibD3X a {
   font-style: normal;
@@ -1525,7 +1569,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qC02wibD3X .dropdown .dropdown-menu {
-  background: #a30029;
+  background: #a005d4;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1868,12 +1912,12 @@ body {
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
-  background: #a30029;
+  background: #a005d4;
   transition: none;
   min-height: 77px;
 }
 .cid-qC02wibD3X .navbar-dropdown.bg-color.transparent.opened {
-  background: #a30029;
+  background: #a005d4;
 }
 .cid-qC02wibD3X a {
   font-style: normal;
@@ -1951,7 +1995,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qC02wibD3X .dropdown .dropdown-menu {
-  background: #a30029;
+  background: #a005d4;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2478,12 +2522,12 @@ body {
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
-  background: #a30029;
+  background: #a005d4;
   transition: none;
   min-height: 77px;
 }
 .cid-qC02wibD3X .navbar-dropdown.bg-color.transparent.opened {
-  background: #a30029;
+  background: #a005d4;
 }
 .cid-qC02wibD3X a {
   font-style: normal;
@@ -2561,7 +2605,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qC02wibD3X .dropdown .dropdown-menu {
-  background: #a30029;
+  background: #a005d4;
   display: none;
   position: absolute;
   min-width: 5rem;
