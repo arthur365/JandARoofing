@@ -1432,10 +1432,10 @@ body {
   max-width: 600px;
 }
 .cid-qCmLLreEZV H4 {
-  color: #cc2952;
+  color: #ff3366;
 }
 .cid-qCmLLreEZV P {
-  color: #22012d;
+  color: #ff7f9f;
 }
 .cid-qCmLLreEZV .mbr-section-title {
   color: #cccccc;
@@ -1443,7 +1443,7 @@ body {
 .cid-qCaAnkheCi {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #c1c1c1;
+  background-color: #232323;
 }
 .cid-qCaAnkheCi .socicon-bg-facebook {
   background: #3e5b98;
@@ -1487,6 +1487,9 @@ body {
 }
 .cid-qCaAnkheCi .mbr-section-title {
   color: #7f1933;
+}
+.cid-qCaAnkheCi .mbr-section-title B {
+  color: #cccccc;
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
