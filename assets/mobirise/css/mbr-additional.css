@@ -1392,53 +1392,31 @@ body {
 .cid-qC0P9vtOcE .section-text DIV {
   color: #232323;
 }
-.cid-qCmLLreEZV {
+.cid-qCxVLENEYG {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-qCmLLreEZV h2 {
-  text-align: center;
-}
-.cid-qCmLLreEZV h4 {
-  text-align: center;
-  z-index: 1;
-  color: #ffffff;
-}
-.cid-qCmLLreEZV p {
-  z-index: 1;
+.cid-qCxVLENEYG h4 {
+  font-weight: 500;
   margin-bottom: 0;
+  text-align: left;
+}
+.cid-qCxVLENEYG p {
+  color: #767676;
+  text-align: left;
+}
+.cid-qCxVLENEYG .card-box {
+  padding-top: 2rem;
+}
+.cid-qCxVLENEYG P {
+  color: #232323;
+}
+.cid-qCxVLENEYG .card-title {
   color: #ffffff;
 }
-.cid-qCmLLreEZV .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-  align-items: stretch;
-  -webkit-align-items: stretch;
-}
-.cid-qCmLLreEZV .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-qCmLLreEZV .card-img img {
-  z-index: -1;
-  min-height: 100%;
-  min-width: 100%;
-  width: auto;
-  max-width: 600px;
-}
-.cid-qCmLLreEZV H4 {
-  color: #ff3366;
-}
-.cid-qCmLLreEZV P {
-  color: #ff7f9f;
-}
-.cid-qCmLLreEZV .mbr-section-title {
-  color: #cccccc;
+.cid-qCxVLENEYG B {
+  color: #ffffff;
 }
 .cid-qCaAnkheCi {
   padding-top: 45px;
@@ -1493,12 +1471,12 @@ body {
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
-  background: #390549;
+  background: #680489;
   transition: none;
   min-height: 77px;
 }
 .cid-qC02wibD3X .navbar-dropdown.bg-color.transparent.opened {
-  background: #390549;
+  background: #680489;
 }
 .cid-qC02wibD3X a {
   font-style: normal;
@@ -1576,7 +1554,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qC02wibD3X .dropdown .dropdown-menu {
-  background: #390549;
+  background: #680489;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1919,12 +1897,12 @@ body {
 }
 .cid-qC02wibD3X .navbar {
   padding: .5rem 0;
-  background: #390549;
+  background: #680489;
   transition: none;
   min-height: 77px;
 }
 .cid-qC02wibD3X .navbar-dropdown.bg-color.transparent.opened {
-  background: #390549;
+  background: #680489;
 }
 .cid-qC02wibD3X a {
   font-style: normal;
@@ -2002,7 +1980,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qC02wibD3X .dropdown .dropdown-menu {
-  background: #390549;
+  background: #680489;
   display: none;
   position: absolute;
   min-width: 5rem;
