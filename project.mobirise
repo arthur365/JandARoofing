@@ -224,6 +224,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://arthur365.github.io/JandARoofing/page2.html\">NEW HOUSE BUILD 2017</a>",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2017-11-5-11-22-24-299959.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=_yunMaDOAP0",
+                "image": "@PROJECT_PATH@/assets/images/img-2-3264x2448.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2-3264x2448-800x600.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Video produced by M&amp;HTV, looking at the creation of the new 72m development to create the Museum of Liverpool",
                 "active": true
               }
             ]
