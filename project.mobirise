@@ -176,6 +176,9 @@
               "background": "linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important",
               "-webkit-transition": "0.2s background ease-in-out",
               "transition": "0.2s background ease-in-out"
+            },
+            ".mbr-gallery-item > div > span B": {
+              "color": "#ffffff"
             }
           },
           "_name": "gallery1",
@@ -199,7 +202,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-6-2000x1500-800x600-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://arthur365.github.io/JandARoofing/page2.html\">Bungalow Extension New Build.//2017 PICS</a>",
+                "caption": "<b>CLICK HERE //&nbsp;</b><a href=\"https://arthur365.github.io/JandARoofing/page2.html\">Bungalow Extension New Build.//2017 PICS</a>",
                 "active": false
               },
               {
@@ -211,7 +214,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/20171018-3-640x480-640x480-640x480.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://arthur365.github.io/JandARoofing/page2.html\">MUSEUM OF LIVERPOOL PICS</a>",
+                "caption": "<b>CLICK HERE//</b>&nbsp;<a href=\"https://arthur365.github.io/JandARoofing/page2.html\">MUSEUM OF LIVERPOOL PICS</a>",
                 "active": false
               },
               {
@@ -223,7 +226,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-3264x2448-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"https://arthur365.github.io/JandARoofing/page2.html\">NEW HOUSE BUILD 2017</a>",
+                "caption": "<b>CLICK HERE //&nbsp;<b><a href=\"https://arthur365.github.io/JandARoofing/page2.html\">NEW HOUSE BUILD 2017</a>&nbsp;</b>PICS</b>",
                 "active": false
               },
               {
@@ -235,7 +238,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-3264x2448-800x600.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Looking at the creation of the new <b>£72 mmillon development</b> to create the Museum of Liverpool<a href=\"https://www.youtube.com/watch?v=_yunMaDOAP0\" target=\"_blank\" class=\"text-secondary\"> </a><br>&nbsp;<a href=\"https://www.youtube.com/watch?v=_yunMaDOAP0\" target=\"_blank\" class=\"text-secondary\"><b>CLICK HERE TO VIEW VIDEO</b></a>",
+                "caption": "Looking at the creation of the new <b>£72 Million development</b> to create the Museum of Liverpool<a href=\"https://www.youtube.com/watch?v=_yunMaDOAP0\" target=\"_blank\" class=\"text-secondary\"> </a><br>&nbsp;<a href=\"https://www.youtube.com/watch?v=_yunMaDOAP0\" target=\"_blank\" class=\"text-secondary\"><b>CLICK HERE TO VIEW VIDEO</b></a>",
                 "active": true
               }
             ]
