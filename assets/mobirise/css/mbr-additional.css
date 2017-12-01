@@ -2379,6 +2379,30 @@ body {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/lm-950x634.jpg");
 }
+.cid-qCyHHyBdOC {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #4d0564;
+}
+.cid-qCyHHyBdOC .line {
+  background-color: #ff3366;
+  color: #ff3366;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qCyHHyBdOC .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-qCyHHyBdOC .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qCyHHyBdOC .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qC1f3VACY5 {
   padding-top: 15px;
   padding-bottom: 30px;
